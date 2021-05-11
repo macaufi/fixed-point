@@ -6,15 +6,7 @@ This is a very simple fixed point math library.
 
 # Setup
 
-To install use yarm or npm and install `@pooltogether/fixed-point`:
-
-```sh
-$ yarn add @pooltogether/fixed-point
-```
-
-```sh
-$ npm i @pooltogether/fixed-point
-```
+...
 
 # Development
 

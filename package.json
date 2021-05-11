@@ -1,5 +1,5 @@
 {
-  "name": "@pooltogether/fixed-point",
+  "name": "@macaufi/fixed-point",
   "version": "1.0.0",
   "description": "An extremely simple fixed point math library",
   "keywords": [
@@ -7,8 +7,8 @@
     "smart-contracts",
     "ethereum"
   ],
-  "repository": "https://github.com/pooltogether/fixed-point",
-  "author": "Brendan Asselstine <brendan@pooltogether.com>",
+  "repository": "https://github.com/macaufi/fixed-point",
+  "author": "VelKovacevic",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
